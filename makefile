@@ -1,6 +1,6 @@
 SRC_DIR := src
 BUILD_DIR := build
-TARGET := runIntersection
+TARGET := carbon_copy
 
 SRC := $(wildcard $(SRC_DIR)/*.c)
 HEAD := $(wildcard $(SRC_DIR)/*.h)
